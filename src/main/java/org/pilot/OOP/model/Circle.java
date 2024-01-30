@@ -3,7 +3,7 @@ package org.pilot.OOP.model;
 /**
  * @program: IntelliJ IDEA
  * @description:
- * @author: Khan
+ * @author: Conner
  */
 public class Circle extends Shape{
     @Override
